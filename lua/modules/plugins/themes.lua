@@ -6,7 +6,7 @@ return {
         priority = 1000,
         opts = {
             style = "moon", -- storm, moon(default), night, day
-            -- transparent = true,
+            transparent = true,
             styles = {
                 sidebars = "transparent",
                 floats = "transparent",
@@ -48,6 +48,8 @@ return {
         priority = 1000,
         opts = {
             styles = {
+                bold = false,
+                italic = false,
                 transparency = true,
             },
         },

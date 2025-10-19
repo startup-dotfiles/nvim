@@ -12,5 +12,9 @@
 ```
 
 ```sh
+# Clone
 git clone https://github.com/startup-dotfiles/nvim $HOME/.config/nvim
+
+# These files can be deleted after installation.
+rm -r README.md LICENSE .git/ .gitignore
 ```

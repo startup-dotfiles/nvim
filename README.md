@@ -1,4 +1,4 @@
-# Dotfiles --- neovim
+# Dotfiles --- Neovim text editor
 
 ```sh
 # Backup/Rename
@@ -12,5 +12,5 @@
 ```
 
 ```sh
-git clone https://github.com/range4-skyz/vim $HOME/.config/nvim
+git clone https://github.com/startup-dotfiles/nvim $HOME/.config/nvim
 ```

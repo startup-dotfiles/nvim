@@ -1,4 +1,4 @@
-# Dotfiles --- Neovim text editor
+# Dotvault --- Neovim text editor
 
 ```sh
 # Backup/Rename
@@ -13,7 +13,7 @@
 
 ```sh
 # Clone
-git clone https://github.com/startup-dotfiles/nvim $HOME/.config/nvim
+git clone https://github.com/dotvault/nvim.git $HOME/.config/nvim
 
 # These files can be deleted after installation.
 rm -r README.md LICENSE .git/ .gitignore
